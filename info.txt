@@ -1,0 +1,8 @@
+node1 - 0x8aA43368b8eCe35C64BB48c7a226Bd90Cca46B28
+passcode - node1
+
+node2 - 0xD63F1BDC051227C7345ac299A3d3dF0107ca3F28
+passcode - node2
+
+bootnode encode:
+enode://4355c9431e2c59ceee343c5512e26a2efc5adc92cafc6633b8a6b5b4afc10983532cf09da3944f83a2a328c8e18b1b3f91a0ccccceb2b4809c33e70c76b4681f@127.0.0.1:0?discport=30301
